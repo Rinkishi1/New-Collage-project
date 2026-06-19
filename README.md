@@ -1,2 +1,2 @@
-# New-Collage-project
+# PDigitalFuture
 Lesson 1
